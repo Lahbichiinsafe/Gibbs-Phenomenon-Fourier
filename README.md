@@ -25,6 +25,12 @@ The simulations show:
 - persistent overshoots near jump discontinuities
 - the characteristic Gibbs overshoot of about 9% of the jump height
 
+ ## Key Observations
+
+- Convergence for continuous functions
+- Persistent overshoot near discontinuities (~9%)
+- Visualization confirms theoretical results
+
 ## Files
 - `main.tex` : LaTeX source of the report
 - `Phenomene_de_Gibbs.pdf` : final report
